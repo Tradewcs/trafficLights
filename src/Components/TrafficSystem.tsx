@@ -41,7 +41,7 @@ const TrafficSystem: React.FC = () => {
         } 
 
         setPedestrianLight("Go");
-        setCarLight("green");
+        setCarLight("red");
         await sendStateToGoogleScript("green", true);
     };
 
