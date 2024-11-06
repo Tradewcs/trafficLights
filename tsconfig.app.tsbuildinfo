@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/Components/Header.tsx","./src/Components/Light.tsx","./src/Components/PedestrianTrafficLight.tsx","./src/Components/StatsBar.tsx","./src/Components/TrafficLights.tsx","./src/Components/TrafficSystem.tsx"],"version":"5.6.3"}
