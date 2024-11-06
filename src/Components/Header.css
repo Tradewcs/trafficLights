@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.link {
+    text-decoration: none;
+    color: #007bff;
+    margin: 0 15px;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.link:hover {
+    color: #0056b3;
+}
